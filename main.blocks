@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ZlglPDPC=)UQU=Ip1}5c" x="0" y="0"></block><block type="device_forever" id="FRVk9Y?||1aUNDY+@@,o" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ZlglPDPC=)UQU=Ip1}5c" x="0" y="0"></block><block type="device_forever" id="FRVk9Y?||1aUNDY+@@,o" x="205" y="0"></block><block type="readlightintensity" id="UfidFdW)4:@*+0/9B!np" disabled="true" x="108" y="136"><field name="lightintensitypin">AnalogPin.P1</field></block></xml>
